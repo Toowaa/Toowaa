@@ -26,14 +26,15 @@
 <div>
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="180"/>
   
-  🎯 &nbsp;Apasionado por la tecnología y el desarrollo personal\
-  🎵 &nbsp;Amante de la música y los momentos de relajación\
-  🌳 &nbsp;Disfruto los paseos con mi perro en el parque\
-  🔮 &nbsp;Siempre en busca de nuevos conocimientos y desafíos\
-  ⚡ &nbsp;Entusiasta de las últimas tendencias tecnológicas\
-  🌟 &nbsp;Comprometido con el aprendizaje continuo\
-  📫 &nbsp;Contáctame en brahanbonilla@gmail.com\
-  🎨 &nbsp;Revisa mi [Curriculum](https://drive.google.com/file/d/1UMDeXWUUV0VzqySmlfc2IWXSLfXe-XJS/view?usp=sharing) para conocer más sobre mi
+🎯 &nbsp;Passionate about technology and personal development\
+🎵 &nbsp;Music lover and relaxation enthusiast\
+🌳 &nbsp;Enjoy walking my dog in the park\
+🔮 &nbsp;Always seeking new knowledge and challenges\
+⚡ &nbsp;Enthusiast of the latest technological trends\
+🌟 &nbsp;Committed to continuous learning\
+📫 &nbsp;Contact me at brahanbonilla@gmail.com\
+🎨 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1UMDeXWUUV0VzqySmlfc2IWXSLfXe-XJS/view?usp=sharing) to learn more about me
+
 </div>
 
 <h2> 🛠 Tech Stack </h2>
