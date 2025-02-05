@@ -81,10 +81,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=toowaa&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/toowaa/toowaa/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <!-- Footer -->
 <p align="center">
