@@ -2,7 +2,7 @@
   <img src="https://github.com/Toowaa/Toowaa/blob/main/logo.png" width="800"/>
   
   <!-- Animated text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Brahan!;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Brahan!;Full+Stack+Developer;Always+Learning+New+Things"  alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="mailto:brahanbonilla@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/brahanbonilla">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   <a href="https://github.com/toowaa">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
   </a>
 </p>
 
