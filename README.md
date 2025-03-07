@@ -33,7 +33,7 @@
 ⚡ &nbsp;Enthusiast of the latest technological trends\
 🌟 &nbsp;Committed to continuous learning\
 📫 &nbsp;Contact me at brahanbonilla@gmail.com\
-🎨 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1UMDeXWUUV0VzqySmlfc2IWXSLfXe-XJS/view?usp=sharing) to learn more about me
+🎨 &nbsp;Check out my [Resume](https://drive.google.com/file/d/15Mxad1plLrvxDEGz_XskuKdKD3mRxU8m/view?usp=sharing) to learn more about me
 
 </div>
 
